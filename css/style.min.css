@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600;1,700&display=swap);
+body{font-family:'Open Sans',sans-serif}
+.navbar{background:#191970;background:linear-gradient(0deg,#191970 32%,#8e0392 54%);font-size:40px;color:#fff}
+nav ul li a{color:#fff;text-transform:uppercase}
+nav ul li a:hover{color:#fff;text-transform:uppercase}
+.jumbotron{width:100%;height:50vh;background-image:url(../assets/img/banner.jpg);background-position:center;background-size:cover;background-repeat:no-repeat}
+.card1{background-color:#191970;border:none}
+.card2{background-color:#193770;border:none}
+.texto-card{color:rgba(0,0,0);text-shadow:0 0 15px rgba(0,0,0,.5),0 0 10px rgba(255,255,255,.7)}
+.fundo1{background-color:#191970}
+.fundo2{background-image:url(../assets/img/fundop2.jpg);background-position:center;background-size:cover;background-repeat:no-repeat}
+.fundo3{background-color:#193770}
+.fundo4{background-color:rgba(10,23,55,.1)}
+.fundo5{background-color:#000}
+.modal-content{font-weight:700;text-align:center;background-color: #DCDCDC;}
+span{color: #8B0000; font-size: 18px; font-weight: 900;}
+
+.footer_creditos{font-size:14px}
