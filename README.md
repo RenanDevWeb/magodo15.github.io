@@ -7,6 +7,6 @@ This project can be visualizated in [site](https://renandevweb.github.io/magodo1
 
 ## Preview
 
- <img src="https://github.com/RenanDevWeb/magodo15.github.io/blob/master/assets/img/magoDom15.png" />
+ <img src="https://github.com/RenanDevWeb/magodo15.github.io/blob/master/assets/img/magodom15.png" />
 
 this layout is free for use.
